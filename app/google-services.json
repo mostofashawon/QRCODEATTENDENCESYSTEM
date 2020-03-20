@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "667787054511",
+    "firebase_url": "https://qrcode-attendence-system.firebaseio.com",
+    "project_id": "qrcode-attendence-system",
+    "storage_bucket": "qrcode-attendence-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667787054511:android:25892f48845ac38961335a",
+        "android_client_info": {
+          "package_name": "com.example.qrcodeattendencesystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667787054511-aepfduemhsknf4hdlcimd5fjrg2qh4qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qrcodeattendencesystem",
+            "certificate_hash": "14c21662b210a7078f5de909bd555b958841e1dc"
+          }
+        },
+        {
+          "client_id": "667787054511-i2rqj6njtev01m0ossgrhvquue8m2fbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjDK0cZtqtHxbXajpYVdi9Bg7bBMyzug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667787054511-i2rqj6njtev01m0ossgrhvquue8m2fbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

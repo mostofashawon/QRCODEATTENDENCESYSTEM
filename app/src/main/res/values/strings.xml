@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QRCODE ATTENDENCE SYSTEM</string>
+
+    <string name="WelcomeQR">  BARCODE ATTENDENCE </string>
+    <string name="Admoin">     Admin Login      </string>
+    <string name="Employee">   Employee Login        </string>
+    <string name="qr">   Click For QR Scan     </string>
+
+</resources>
