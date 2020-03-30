@@ -1,4 +1,6 @@
-# QRCODEATTENDENCESYSTEM
+# QRCODE ATTENDENCE SYSTEM
+## Introduction
+This application can scan employee QR code from employee id update employee attendence intime, outtime, overtime by admin. Also each employee can see their attendence in this application.  
 
 ## Application UI
 
